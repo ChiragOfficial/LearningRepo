@@ -1,0 +1,7 @@
+Books:
+1) [Core java Volume 1 -- Fundamentals 11th ed.] Cay S. Horstmann - Core Java Volume I--Fundamentals (11th Edition) (2018, Prentice Hall)
+2) (Mitchell Waite signature series) Mitchell Waite, Robert Lafore - Data Structures & Algorithms in Java-Waite Group Press (1998)
+3) (The Java series) Joshua Bloch - Effective Java_ programming language guide-Addison-Wesley (2001)
+
+Website:
+https://java-programming.mooc.fi/
