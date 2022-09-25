@@ -1,0 +1,12 @@
+Ready-made unit test libraries are commonly used in writing tests, which provide methods and help classes for writing tests. 
+The most common unit testing library in Java is JUnit , which is also supported by almost all programming environments. 
+For example, NetBeans can automatically search for JUnit tests in a project — if any are found, they will be displayed under the project 
+in the Test Packages folder.
+
+Required Packages to be imported:
+	-static org.junit.Assert.assertEquals
+	-org.junit.Test
+Annotation:
+	-@Test
+Functions:
+	-assertEquals(expectedValue, calculatedValue)

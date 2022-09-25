@@ -1,0 +1,9 @@
+1) constructor:
+	1) default constructor
+	2) parametric constructor
+	3) copy constructor
+2) accessor
+3) mutator
+4) facilitator
+5) enquiry
+6) destructor

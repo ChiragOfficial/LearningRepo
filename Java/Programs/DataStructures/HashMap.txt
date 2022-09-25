@@ -1,0 +1,7 @@
+-   Using a hash map requires the import java.util.HashMap; statement at the beginning of the class.
+-   put(*key*, *value*) - to add a new hash map.
+-   get(*key*) - retrieving the value of the given key.
+-   If a new key-value pair is added to the hash map, but the key has already been associated with some other value stored 
+    in the hash map, the old value will vanish from the hash map.
+-   DRY Principle - Don't Repeat Yourself Principle. Write down the codes in the class itself that automate repeated tasks.
+-   keySet() method - Returns a Set of keys in the HashMap
